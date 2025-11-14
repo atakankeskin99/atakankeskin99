@@ -24,29 +24,39 @@ I enjoy combining academic understanding with practical projects, especially in 
 - Operating systems (Linux-based environments)  
 - Networking (OSI, TCP/IP, routing basics)  
 - Python for automation & scripting  
-- Software fundamentals & problem solving  
+- Java for algorithmic thinking & problem-solving  
+- C++ for Object-Oriented Programming (OOP) fundamentals  
+- Software fundamentals & logical reasoning  
 - Git & documentation best practices  
+
+---
+
+## 🛠️ Technologies I'm Starting With
+
+- **Python scripting & automation**
+- **Linux basics & CLI**
+- **Networking fundamentals**
+
+- **Java (Algorithmic Foundations)**  
+  Practicing loops, conditions, data structures, and algorithmic thinking to strengthen problem-solving ability.
+
+- **C++ (OOP Concepts)**  
+  Building core understanding of classes, objects, constructors, access control, encapsulation, inheritance, polymorphism, and method overriding/overloading.
+
+- **HTML / CSS basics**  
+- **Markdown & documentation**  
+- **Git / GitHub workflow**
 
 ---
 
 ## 📚 What I'm Working On
 
 - Strengthening my understanding of computer systems  
-- Learning Python step-by-step and applying it to small practical tasks  
-- Building simple automation tools and scripts  
+- Improving problem-solving with Java algorithm exercises  
+- Practicing OOP concepts in C++  
+- Building small automation tools in Python  
 - Creating structured documentation for everything I study  
 - Developing consistent habits for long-term IT growth  
-
----
-
-## 🛠️ Technologies I'm Starting With
-
-- **Python**  
-- **Linux basics & CLI**  
-- **Networking fundamentals**  
-- **HTML / CSS basics**  
-- **Markdown & documentation**  
-- **Git / GitHub workflow**
 
 ---
 
@@ -55,8 +65,9 @@ I enjoy combining academic understanding with practical projects, especially in 
 I maintain notes and learning journals to track my progress, including:
 
 - System concepts explained in simple terms  
-- Daily or weekly technical notes  
-- Short exercises & scripts  
+- Weekly technical summaries  
+- Algorithm exercises (Java)  
+- OOP practice tasks (C++)  
 - Network fundamentals  
 - Beginner automation tasks  
 
