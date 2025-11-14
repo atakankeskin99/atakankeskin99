@@ -1,9 +1,6 @@
-<h1 align="center">Hi, I'm Atakan 👋</h1>
+## 👨‍💻 About Me
 
-<p align="center">
-An aspiring IT professional with a growing background in systems, networks, and software fundamentals.  
-Passionate about technology, academic learning, and building a strong, well-rounded IT foundation.
-</p>
+Aspiring IT professional focused on systems, networking, and foundational software skills. Interested in combining academic knowledge with hands-on technical practice to build a strong, long-term career in the IT field.
 
 ---
 
@@ -17,17 +14,18 @@ Passionate about technology, academic learning, and building a strong, well-roun
   - Software development basics  
 - Continuously expanding my knowledge through structured learning, hands-on practice, and technical documentation
 
-I enjoy combining **academic understanding** with **practical projects**, especially in areas like automation, system workflows, and infrastructure basics.
+I enjoy combining academic understanding with practical projects, especially in areas like automation, system workflows, and infrastructure fundamentals.
 
 ---
 
 ## 🔧 Interests & Focus Areas
 
-- System Integration & IT Infrastructure  
-- Networks, servers, and Linux environment  
+- System integration & IT infrastructure  
+- Operating systems (Linux-based environments)  
+- Networking (OSI, TCP/IP, routing basics)  
 - Python for automation & scripting  
 - Software fundamentals & problem solving  
-- Git and documentation best practices  
+- Git & documentation best practices  
 
 ---
 
@@ -35,7 +33,7 @@ I enjoy combining **academic understanding** with **practical projects**, especi
 
 - Strengthening my understanding of computer systems  
 - Learning Python step-by-step and applying it to small practical tasks  
-- Building simple tools, notes, and beginner-level projects  
+- Building simple automation tools and scripts  
 - Creating structured documentation for everything I study  
 - Developing consistent habits for long-term IT growth  
 
@@ -45,10 +43,10 @@ I enjoy combining **academic understanding** with **practical projects**, especi
 
 - **Python**  
 - **Linux basics & CLI**  
-- **Networking fundamentals (OSI, TCP/IP, routing basics)**  
+- **Networking fundamentals**  
 - **HTML / CSS basics**  
 - **Markdown & documentation**  
-- **Git / GitHub version control**  
+- **Git / GitHub workflow**
 
 ---
 
