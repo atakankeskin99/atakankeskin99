@@ -1,84 +1,89 @@
 ## 👨‍💻 About Me
 
-Aspiring IT professional focused on systems, networking, and foundational software skills. Interested in combining academic knowledge with hands-on technical practice to build a strong, long-term career in the IT field.
+I'm building a long-term career in IT with a strong focus on **systems, networking, and foundational software engineering**.
+
+My approach is simple:  
+Understand the fundamentals deeply.  
+Document everything.  
+Build small but real projects consistently.
+
+I believe strong infrastructure knowledge + solid programming fundamentals create durable engineers.
 
 ---
 
-## 🎓 Academic Background & Motivation
+## 🎓 Academic Background
 
-- Previously studied **Computer Systems** at **Riga Technical University (RTU)**  
+- Studied **Computer Systems** at Riga Technical University (RTU)
 - Developed strong interest in:
-  - System integration  
-  - Operating systems  
-  - Networking fundamentals  
-  - Software development basics  
-- Continuously expanding my knowledge through structured learning, hands-on practice, and technical documentation
+  - System Integration
+  - Operating Systems
+  - Networking Fundamentals
+  - Software Engineering Basics
 
-I enjoy combining academic understanding with practical projects, especially in areas like automation, system workflows, and infrastructure fundamentals.
-
----
-
-## 🔧 Interests & Focus Areas
-
-- System integration & IT infrastructure  
-- Operating systems (Linux-based environments)  
-- Networking (OSI, TCP/IP, routing basics)  
-- Python for automation & scripting  
-- Java for algorithmic thinking & problem-solving  
-- C++ for Object-Oriented Programming (OOP) fundamentals  
-- Software fundamentals & logical reasoning  
-- Git & documentation best practices  
+My academic exposure shaped my technical curiosity, but my real growth comes from structured self-study and hands-on experimentation.
 
 ---
 
-## 🛠️ Technologies I'm Starting With
+## 🔧 Core Focus Areas
 
-- **Python scripting & automation**
-- **Linux basics & CLI**
-- **Networking fundamentals**
+- 🖥️ System Integration & IT Infrastructure  
+- 🐧 Linux Environments & CLI Workflow  
+- 🌐 Networking (OSI, TCP/IP, routing fundamentals)  
+- 🧠 Algorithmic Thinking & Problem Solving  
+- 🏗️ Object-Oriented Programming Foundations  
+- ⚙️ Automation & Scripting  
 
-- **Java (Algorithmic Foundations)**  
-  Practicing loops, conditions, data structures, and algorithmic thinking to strengthen problem-solving ability.
-
-- **C++ (OOP Concepts)**  
-  Building core understanding of classes, objects, constructors, access control, encapsulation, inheritance, polymorphism, and method overriding/overloading.
-
-- **HTML / CSS basics**  
-- **Markdown & documentation**  
-- **Git / GitHub workflow**
+I aim to understand how systems actually work — not just how to use them.
 
 ---
 
-## 📚 What I'm Working On
+## 🛠️ Technologies I'm Working With
 
-- Strengthening my understanding of computer systems  
-- Improving problem-solving with Java algorithm exercises  
-- Practicing OOP concepts in C++  
-- Building small automation tools in Python  
-- Creating structured documentation for everything I study  
-- Developing consistent habits for long-term IT growth  
+### Programming
+- **Python** → Automation & scripting  
+- **Java** → Algorithmic foundations & problem solving  
+- **C++** → OOP fundamentals (encapsulation, inheritance, polymorphism)  
+
+### Systems & Tools
+- Linux (CLI-focused usage)  
+- Git & GitHub workflow  
+- Markdown documentation  
+- Basic HTML / CSS  
 
 ---
 
-## 📘 Learning Logs
+## 📚 Current Development Path (2026 Focus)
 
-I maintain notes and learning journals to track my progress, including:
+- Strengthening system-level understanding  
+- Practicing data structures & algorithms in Java  
+- Building OOP clarity with C++  
+- Writing small Python automation tools  
+- Documenting everything publicly on GitHub  
+- Improving technical English communication  
 
-- System concepts explained in simple terms  
-- Weekly technical summaries  
-- Algorithm exercises (Java)  
-- OOP practice tasks (C++)  
-- Network fundamentals  
-- Beginner automation tasks  
+Long-term goal: Build strong engineering foundations and transition into advanced system integration / infrastructure roles.
+
+---
+
+## 📘 Learning Philosophy
+
+I treat GitHub as a **public learning journal**, not a showcase of perfection.
+
+You’ll see:
+- Learning-focused repositories  
+- Structured READMEs  
+- Incremental improvements  
+- Transparent progress  
+
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atakankeskin&show_icons=true&theme=default" height="160">
+  <img src="https://streak-stats.demolab.com?user=atakankeskin99" height="160"/>
 </p>
-
 ---
 
 ## 📫 Contact
@@ -87,4 +92,4 @@ I maintain notes and learning journals to track my progress, including:
 
 ---
 
-<p align="center"><i>Learning consistently. Improving continuously.</i></p>
+<p align="center"><i>Learning consistently. Building foundations. Playing the long game.</i></p>
