@@ -59,7 +59,6 @@ I aim to understand how systems actually work — not just how to use them.
 - Building OOP clarity with C++  
 - Writing small Python automation tools  
 - Documenting everything publicly on GitHub  
-- Improving technical English communication  
 
 Long-term goal: Build strong engineering foundations and transition into advanced system integration / infrastructure roles.
 
@@ -91,5 +90,3 @@ You’ll see:
 - Email: **atakankeskin48@gmail.com**
 
 ---
-
-<p align="center"><i>Learning consistently. Building foundations. Playing the long game.</i></p>
