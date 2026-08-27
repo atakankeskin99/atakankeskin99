@@ -1,92 +1,85 @@
-## 👨‍💻 About Me
+# Atakan Keskin
 
-I'm building a long-term career in IT with a strong focus on **systems, networking, and foundational software engineering**.
+I’m building my software engineering foundations through hands-on development, systems work, and deliberate experimentation.
 
-My approach is simple:  
-Understand the fundamentals deeply.  
-Document everything.  
-Build small but real projects consistently.
+I’m particularly interested in the point where **software meets the system it runs on** — application logic, operating systems, networking, processes, services, and the tooling around them.
 
-I believe strong infrastructure knowledge + solid programming fundamentals create durable engineers.
+Rather than trying to appear fluent in every technology I touch, I use small, focused projects to learn unfamiliar tools, compare different approaches, and understand the underlying concepts.
 
 ---
 
-## 🎓 Academic Background
+## What I'm Focused On
 
-- Studied **Computer Systems** at Riga Technical University (RTU)
-- Developed strong interest in:
-  - System Integration
-  - Operating Systems
-  - Networking Fundamentals
-  - Software Engineering Basics
-
-My academic exposure shaped my technical curiosity, but my real growth comes from structured self-study and hands-on experimentation.
-
----
-
-## 🔧 Core Focus Areas
-
-- 🖥️ System Integration & IT Infrastructure  
-- 🐧 Linux Environments & CLI Workflow  
-- 🌐 Networking (OSI, TCP/IP, routing fundamentals)  
-- 🧠 Algorithmic Thinking & Problem Solving  
-- 🏗️ Object-Oriented Programming Foundations  
-- ⚙️ Automation & Scripting  
-
-I aim to understand how systems actually work — not just how to use them.
+- Software engineering fundamentals
+- Object-oriented programming
+- Data structures and algorithms
+- Linux and operating-system concepts
+- Networking and client/server systems
+- Automation and scripting
+- Debugging and technical problem solving
 
 ---
 
-## 🛠️ Technologies I'm Working With
+## Technologies I'm Working With
 
-### Programming
-- **Python** → Automation & scripting  
-- **Java** → Algorithmic foundations & problem solving  
-- **C++** → OOP fundamentals (encapsulation, inheritance, polymorphism)  
+**Languages**
 
-### Systems & Tools
-- Linux (CLI-focused usage)  
-- Git & GitHub workflow  
-- Markdown documentation  
-- Basic HTML / CSS  
+`Java` · `JavaScript` · `C#` · `Python` · `C++` · `Bash`
 
----
+**Platforms & Tools**
 
-## 📚 Current Development Path (2026 Focus)
+`Linux` · `Node.js` · `.NET` · `JavaFX` · `Flask` · `Git` · `GitHub` · `Maven`
 
-- Strengthening system-level understanding  
-- Practicing data structures & algorithms in Java  
-- Building OOP clarity with C++  
-- Writing small Python automation tools  
-- Documenting everything publicly on GitHub  
+**Systems**
 
-Long-term goal: Build strong engineering foundations and transition into advanced system integration / infrastructure roles.
+`SSH` · `systemd` · `TCP/IP` · `HTTP` · `VNC` · `CLI workflows`
 
 ---
 
-## 📘 Learning Philosophy
+## How I Learn
 
-I treat GitHub as a **public learning journal**, not a showcase of perfection.
+Most repositories here are intentionally **learning-focused**.
 
-You’ll see:
-- Learning-focused repositories  
-- Structured READMEs  
-- Incremental improvements  
-- Transparent progress  
+I tend to learn by:
 
+- turning concepts into small working projects
+- implementing similar ideas in different languages or environments
+- experimenting with Linux, networking, and system behavior
+- debugging problems instead of hiding failed attempts
+- documenting what changed, what failed, and what I learned
 
+The projects are snapshots of that process rather than claims of expertise in every technology involved.
 
+As my foundations grow, the goal is to connect these smaller pieces into increasingly complete software systems.
 
+---
 
-## 📊 GitHub Stats
+## Background
+
+I studied **Computer Systems at Riga Technical University**, where I was exposed to programming, computer architecture, mathematics, and computer-system fundamentals.
+
+I continue that development independently through structured study and hands-on technical work.
+
+---
+
+## Current Direction
+
+Right now, I’m focused on strengthening the fundamentals that transfer across technologies:
+
+**programming → software design → operating systems → networking → infrastructure**
+
+The long-term goal is not to collect technologies, but to understand enough of the stack to make better engineering decisions.
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=atakankeskin99" height="160"/>
 </p>
 
+---
 
-## 📫 Contact
+## Contact
 
 - Email: **atakankeskin48@gmail.com**
-
----
