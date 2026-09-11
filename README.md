@@ -68,15 +68,7 @@ Right now, I’m focused on strengthening the fundamentals that transfer across 
 
 **programming → software design → operating systems → networking → infrastructure**
 
-The long-term goal is not to collect technologies, but to understand enough of the stack to make better engineering decisions.
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=atakankeskin99" height="160"/>
-</p>
+The long-term goal is not to collect technologies, but to understand enough of the stack to make better engineering decisions
 
 ---
 
