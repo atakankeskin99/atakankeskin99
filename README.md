@@ -1,77 +1,64 @@
 # Atakan Keskin
 
-I’m building my software engineering foundations through hands-on development, systems work, and deliberate experimentation.
+![Java](https://img.shields.io/badge/Java-E76F00?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-I’m particularly interested in the point where **software meets the system it runs on** — application logic, operating systems, networking, processes, services, and the tooling around them.
+I’m building my software engineering foundations through practical projects, independent study, and hands-on systems work.
 
-Rather than trying to appear fluent in every technology I touch, I use small, focused projects to learn unfamiliar tools, compare different approaches, and understand the underlying concepts.
+I’m especially interested in **how software interacts with the system it runs on**: how application logic becomes a running service, how processes communicate, and how operating systems and networks shape its behavior.
 
----
+## Selected Work
 
-## What I'm Focused On
+### [Linux Lab](https://github.com/atakankeskin99/linux-lab)
 
-- Software engineering fundamentals
-- Object-oriented programming
-- Data structures and algorithms
-- Linux and operating-system concepts
-- Networking and client/server systems
-- Automation and scripting
-- Debugging and technical problem solving
+A collection of Linux tools, services, and investigations built around practical questions.
 
----
+- **[LAN Drop](https://github.com/atakankeskin99/linux-lab/tree/main/projects/lan-drop):** a browser-based HTTPS file-transfer service built with Python and Flask, with systemd integration, security regression tests, and an optional Wi-Fi hotspot.
+- **[Remote Access](https://github.com/atakankeskin99/linux-lab/tree/main/projects/wireguard-remote-access):** a WireGuard lab exploring routing, firewalls, and access through CGNAT, followed by a move to Tailscale for everyday use.
+- **[Container Base Image Evaluation](https://github.com/atakankeskin99/linux-lab/tree/main/investigations/container-base-image-evaluation):** a comparison of Alpine and Debian Slim using the same application, with recorded measurements and revisions to the testing methodology.
 
-## Technologies I'm Working With
+### [Call Target Calculator](https://github.com/atakankeskin99/call-target-calculator)
 
-**Languages**
+A practical workplace calculation implemented in Java, C# WinForms, and browser-based JavaScript. Explores how the same business logic translates across command-line, desktop, and web interfaces.
 
-`Java` · `JavaScript` · `C#` · `Python` · `C++` · `Bash`
+### [Password Strength Checker](https://github.com/atakankeskin99/password-strength-checker)
 
-**Platforms & Tools**
+A learning project with Java console, JavaFX, and Node.js implementations, covering input validation, event-driven interfaces, password generation, and automated testing in the Java console version.
 
-`Linux` · `Node.js` · `.NET` · `JavaFX` · `Flask` · `Git` · `GitHub` · `Maven`
+## Current Focus
 
-**Systems**
+- **Programming and design:** object-oriented programming, data structures, algorithms, and separating application logic from interfaces.
+- **Systems and networking:** Linux processes and services, client/server communication, and remote access.
+- **Engineering practice:** debugging, automated testing, scripting, and evaluating technical trade-offs through experiments.
 
-`SSH` · `systemd` · `TCP/IP` · `HTTP` · `VNC` · `CLI workflows`
+My long-term direction is software architecture. I’m developing the programming and systems knowledge needed to make informed design decisions.
 
----
+## Technologies Used in My Projects
 
-## How I Learn
+**Languages**  
+Java · JavaScript · C# · Python · Bash
 
-Most repositories here are intentionally **learning-focused**.
+**Application Development**  
+Node.js · .NET / WinForms · JavaFX · Flask · Maven
 
-I tend to learn by:
+**Systems & Tooling**  
+Linux · Docker · Git · GitHub Actions · systemd · SSH · WireGuard · Tailscale
 
-- turning concepts into small working projects
-- implementing similar ideas in different languages or environments
-- experimenting with Linux, networking, and system behavior
-- debugging problems instead of hiding failed attempts
-- documenting what changed, what failed, and what I learned
+## How I Work
 
-The projects are snapshots of that process rather than claims of expertise in every technology involved.
+I learn by building small tools, implementing ideas in different environments, and investigating what happens when they run.
 
-As my foundations grow, the goal is to connect these smaller pieces into increasingly complete software systems.
-
----
+My repositories document the decisions, measurements, failed attempts, and corrections behind the results. These are evolving learning projects, with working outcomes and open questions recorded alongside the code.
 
 ## Background
 
-I studied **Computer Systems at Riga Technical University**, where I was exposed to programming, computer architecture, mathematics, and computer-system fundamentals.
+I studied **Computer Systems at Riga Technical University**, with coursework in programming, computer architecture, mathematics, and computer-system fundamentals.
 
-I continue that development independently through structured study and hands-on technical work.
-
----
-
-## Current Direction
-
-Right now, I’m focused on strengthening the fundamentals that transfer across technologies:
-
-**programming → software design → operating systems → networking → infrastructure**
-
-The long-term goal is not to collect technologies, but to understand enough of the stack to make better engineering decisions
-
----
+I continue developing that foundation through independent study and practical engineering work.
 
 ## Contact
 
-- Email: **atakankeskin48@gmail.com**
+[atakankeskin48@gmail.com](mailto:atakankeskin48@gmail.com)
