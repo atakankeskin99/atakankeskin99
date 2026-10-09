@@ -20,13 +20,9 @@ A collection of Linux tools, services, and investigations built around practical
 - **[Remote Access](https://github.com/atakankeskin99/linux-lab/tree/main/projects/wireguard-remote-access):** a WireGuard lab exploring routing, firewalls, and access through CGNAT, followed by a move to Tailscale for everyday use.
 - **[Container Base Image Evaluation](https://github.com/atakankeskin99/linux-lab/tree/main/investigations/container-base-image-evaluation):** a comparison of Alpine and Debian Slim using the same application, with recorded measurements and revisions to the testing methodology.
 
-### [Call Target Calculator](https://github.com/atakankeskin99/call-target-calculator)
+### [Application Development Labs](https://github.com/atakankeskin99/application-development-labs)
 
-A practical workplace calculation implemented in Java, C# WinForms, and browser-based JavaScript. Explores how the same business logic translates across command-line, desktop, and web interfaces.
-
-### [Password Strength Checker](https://github.com/atakankeskin99/password-strength-checker)
-
-A learning project with Java console, JavaFX, and Node.js implementations, covering input validation, event-driven interfaces, password generation, and automated testing in the Java console version.
+A collection of learning-focused applications exploring software development fundamentals across Java, C#, JavaScript, and Node.js. Includes multi-platform implementations of a call target calculator and a password strength checker.
 
 ## Current Focus
 
