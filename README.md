@@ -21,8 +21,10 @@ A collection of Linux tools, services, and investigations built around practical
 - **[Container Base Image Evaluation](https://github.com/atakankeskin99/linux-lab/tree/main/investigations/container-base-image-evaluation):** a comparison of Alpine and Debian Slim using the same application, with recorded measurements and revisions to the testing methodology.
 
 ### [Application Development Labs](https://github.com/atakankeskin99/application-development-labs)
-
 A collection of learning-focused applications exploring software development fundamentals across Java, C#, JavaScript, and Node.js. Includes multi-platform implementations of a call target calculator and a password strength checker.
+
+### **[T2Speech](https://github.com/atakankeskin99/T2Speech)** 
+An open-source, local-first flashcard app with text-to-speech and interactive study features.
 
 ## Current Focus
 
